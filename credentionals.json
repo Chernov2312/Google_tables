@@ -1,0 +1,13 @@
+{
+  "installed": {
+    "client_id": "971130057838-4fh3gnvsr4ctf0m9ulacgf44p2kgpjtu.apps.googleusercontent.com",
+    "project_id": "wildberries-448712",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "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",
+    "redirect_uris": [
+      "http://localhost"
+    ]
+  }
+}
